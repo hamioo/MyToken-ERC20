@@ -1,4 +1,6 @@
-### This is A ERC20 Standard token.
+# ERC20 TOKEN
+
+#### This is A ERC20 Standard token.
 
 ______
  
