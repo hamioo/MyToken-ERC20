@@ -1,12 +1,14 @@
+### This is A ERC20 Standard token.
 
+______
+ 
+ 
  - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
-    - [Typescript (Optional)](#typescript-optional)
-    - [Optional Gitpod](#optional-gitpod)
 - [Usage](#usage)
 - [Deployment to a testnet or mainnet](#deployment-to-a-testnet-or-mainnet)
   - [Verify on etherscan](#verify-on-etherscan)
